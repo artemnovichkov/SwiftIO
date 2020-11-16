@@ -32,7 +32,7 @@ You can obtain the source code of each clasee in the following links.
 
 Before starting to write your project, you can download and run the example codes here to get familiar with the library usage.
 
-* [GetStarted](https://github.com/madmachineio/Examples/tree/master/GetStarted) - simple code to learn the basic skill
+* [GettingStarted](https://github.com/madmachineio/Examples/tree/master/GettingStarted) - simple code to learn the basic skill
 * [SimpleIO](https://github.com/madmachineio/Examples/tree/master/SimpleIO) - examples using analog and digital signal
 * [AdvancedIO](https://github.com/madmachineio/Examples/tree/master/AdvancedIO/SHT3x) - examples using communication protocle
 
